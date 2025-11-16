@@ -117,6 +117,7 @@ body {
    padding: 83px 11px 95px 11px;
    overflow: auto;
 }
+```
 
 PAGE -2
 ```
@@ -163,7 +164,7 @@ imple
 
 72 cc
 
-▼<div class="card-bottom-row-bottom">
+<div class="card-bottom-row-bottom">
 
 <div class="rect card-bottom-rect-left"></div>
 
@@ -176,6 +177,7 @@ Addi
 </div>
 
 </body>
+
 CSS 
 body {
    min-height: 100%;
@@ -230,7 +232,7 @@ body {
 ```
 
 ## OUTPUT
-![Screenshot](Screenshot 2025-11-16 122717.png)
+![alt text](<Screenshot 2025-11-16 122717.png>)
 
 
 ## RESULT:
